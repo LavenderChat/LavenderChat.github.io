@@ -101,7 +101,7 @@ sub {
 img {
   width: auto\9;
   height: auto;
-  max-width: 100%;
+  max-width: 50%;
   vertical-align: middle;
   border: 0;
   -ms-interpolation-mode: bicubic;
@@ -645,6 +645,7 @@ a:focus {
   clear: both;
 }
 
+/*
 img {
   -webkit-filter: contrast(800%);
      -moz-filter: contrast(1000%);
@@ -652,6 +653,7 @@ img {
        -o-filter: contrast(800%);
           filter: contrast(1000%);
 }
+*/
 
 p {
   margin: 0 0 20px;
@@ -805,8 +807,8 @@ h1 {
 }
 
 h2 {
-  font-size: 18px;
-  text-align: center;
+  font-size: 16px;
+  /*text-align: center;*/
   white-space: nowrap;
 }
 
