@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HUGO.386</title>
-    <link>https://example.com/post/</link>
+    <link>https://lavenderchat.github.io/post/</link>
     <description>Recent content in Posts on HUGO.386</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Oct 2022 13:43:38 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Oct 2022 13:43:38 +0800</lastBuildDate><atom:link href="https://lavenderchat.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://example.com/post/test/</link>
+      <link>https://lavenderchat.github.io/post/test/</link>
       <pubDate>Sat, 22 Oct 2022 13:43:38 +0800</pubDate>
       
-      <guid>https://example.com/post/test/</guid>
+      <guid>https://lavenderchat.github.io/post/test/</guid>
       <description>New text test!s</description>
     </item>
     
